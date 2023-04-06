@@ -21,14 +21,18 @@ I am looking for software dev work using a language more close-to-the-metal like
 
 <!-- 
 TODO, list:
-- colour-distance (colour theory, complete user-facing product)
 - alocohol-weakener (for liquers!)
-- triangberg (graphics)
-- wondercard (low-level PS peripheral emulation, C++)
 - codlili (underpins arby)
-- tr-sort (sorting algorithms)
-- galley and gryde —convenient C++ shenanigans for matrices and finite field arithmetic
-- dengry (reverse engineering of CD encoding, compile-time-generated lookup tables, as above)
 - risky (RISC CPU design)
 - biomaker (for Art project)
 -->
+
+|                                                                                        |                                                                                                            |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| [github.com/saxbophone/wondercard](https://github.com/saxbophone/wondercard)           | Emulating the communications protocol used for PS1 memory cards in software                                |
+| [github.com/saxbophone/tr-sort](https://github.com/saxbophone/tr-sort)                 | Experimental sorting algorithm which attempts to calculate the rough position each element should be       |
+| [github.com/saxbophone/colour-distance](https://github.com/saxbophone/colour-distance) | Web app for finding colours that are _"n distance away from"_ a given colour, intended for interior design |
+| [github.com/saxbophone/triangberg](https://github.com/saxbophone/triangberg)           | Just for fun, animated geometrically-constructed fractal-like arrangements of triangles                    |
+| [github.com/saxbophone/zench](https://github.com/saxbophone/zench)                     | C++ Z-machine interpreter, work in progress                                                                |
+| [github.com/saxbophone/galley](https://github.com/saxbophone/galley)                   | Galois Field arithmetic using compile-time-generated lookup tables                                         |
+| [github.com/saxbophone/dengr](https://github.com/saxbophone/dengr)                     | Partial reverse-engineering of the low-level data encoding of Compact Discs                                |
