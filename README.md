@@ -36,3 +36,4 @@ TODO, list:
 | [github.com/saxbophone/zench](https://github.com/saxbophone/zench)                     | C++ Z-machine interpreter, work in progress                                                                |
 | [github.com/saxbophone/galley](https://github.com/saxbophone/galley)                   | Galois Field arithmetic using compile-time-generated lookup tables                                         |
 | [github.com/saxbophone/dengr](https://github.com/saxbophone/dengr)                     | Partial reverse-engineering of the low-level data encoding of Compact Discs                                |
+| [github.com/saxbophone/lzw-bit](https://github.com/saxbophone/lzw-bit)                 | Bit-by-bit LZW compression with redundant-code-elimination                                              |
