@@ -1,10 +1,8 @@
-Hi, my name is Joshua Saxby —I'm a software developer soon to graduate from university, and _I'm looking for work!_
+Hi, my name is Joshua Saxby —I'm a software developer soon to graduate from university.
 
 I've been programming for a little over a decade now, to a professional level for several years.
 
 My professional experience is mostly in web dev, but I also have some Windows desktop application experience.
-
-I am looking for software dev work using a language more close-to-the-metal like C or C++, and I believe most of my personal projects on here reflect this!
 
 ### Projects I am particularly proud of:
 
