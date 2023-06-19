@@ -1,4 +1,4 @@
-Hi, my name is Joshua Saxby —I'm a software developer soon to graduate from university.
+Hi, my name is Josh Saxby —I'm a software developer soon to graduate from university.
 
 I've been programming for a little over a decade now, to a professional level for several years.
 
