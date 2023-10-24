@@ -1,5 +1,3 @@
-Hi, my name is Josh Saxby —I'm a software developer soon to graduate from university.
-
 I've been programming for a little over a decade now, to a professional level for several years.
 
 My professional experience is mostly in web dev, but I also have some Windows desktop application experience.
